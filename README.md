@@ -43,7 +43,7 @@ Any distinction or unequal treatment based on:
 Please contact the organizers. Each organizer will wear a specific t-shirt.
 
 ### What will that organizer do? How are organizers trained to deal with harassment incidents?
-The organizers are aware of the code of conduct. If an inappropriate behaviour is bring to us and confirm, we will ask to the harasser to leave the conference. If he/she/they do not follow our instructions, we may call the police.
+The organizers are aware of the code of conduct. If an inappropriate behaviour is brought to us and confirmed, we will ask to the harasser to leave the conference. If he/she/they do not follow our instructions, we may call the police.
 
 ### Will they contact the law enforcement or police? Should I contact the police directly?
 Please contact the police directly only in case of physical emergency, as usual. Please get in touch with an organizer as soon as possible if any unwanted/undesired behavior occur.
