@@ -2,7 +2,7 @@
 
 ## Introduction
 
-_In our opinion, defining a conference as pro-respect and tolerance in a Code of Conduct is intrinsically harmful. It legitimates the fact that it could be possible for a technology-focused event to oppose such values. Inclusivity is *not* an opinion: it is an universal and obvious principle._
+_In our opinion, defining a conference as pro-respect and tolerance in a Code of Conduct is intrinsically harmful. It legitimates the fact that it could be possible for a technology-focused event to oppose such values. Inclusivity is *not* an opinion: it is a universal and obvious principle._
 
 ## FrenchKit Code of Conduct 2019
 
@@ -11,7 +11,7 @@ _In our opinion, defining a conference as pro-respect and tolerance in a Code of
 However if, for the sake of ethics, we need to stand against what we do not appreciate or tolerate, here is our own code:
 - Be respectful of **everyone**
 - Understand that resources you will find at the events are meant for sharing, and not for your sole consumption. That includes drinks, food, seats and common spaces
-- Be respectful of speakers' work. Preparing a talk demands effort, and they do not deserve puns, ringing phones, chatting, sleeping or any behaviour that may cause nuisance to their presentation. Please be supportive.
+- Be respectful of speakers' work. Preparing a talk demands effort, and they do not deserve puns, ringing phones, chatting, sleeping or any behaviour that may cause nuisances to their presentation. Please be supportive.
 - Do not give your opinion about something you do not know
 - Make constructive feedback
 - Understand that staff is not there to serve you but, rather, to help you
@@ -46,7 +46,7 @@ Please contact the organizers. Each organizer will wear a specific t-shirt.
 The organizers are aware of the code of conduct. If an inappropriate behaviour is brought to us and confirmed, we will ask to the harasser to leave the conference. If he/she/they do not follow our instructions, we may call the police.
 
 ### Will they contact the law enforcement or police? Should I contact the police directly?
-Please contact the police directly only in case of physical emergency, as usual. Please get in touch with an organizer as soon as possible if any unwanted/undesired behavior occur.
+Please contact the police directly only in case of physical emergency, as usual. Please get in touch with an organizer as soon as possible if any unwanted/undesired behavior occurs.
 
 ### What do I do if I notice someone else being harassed?
 Report it immediately to an organizer.
