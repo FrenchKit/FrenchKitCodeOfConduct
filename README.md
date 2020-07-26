@@ -60,4 +60,4 @@ The Conference Code of Conduct for FrenchKit 2019 is licensed under a Creative C
 
 ## Footnotes
 
-<b id="f1">1</b> Verified on 2019-03-15. [↩](#a1)
+<b id="f1">1</b> Verified on 2020-06-27. [↩](#a1)
