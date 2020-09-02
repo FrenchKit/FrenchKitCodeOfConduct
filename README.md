@@ -4,7 +4,7 @@
 
 _In our opinion, defining a conference as pro-respect and tolerance in a Code of Conduct is intrinsically harmful. It legitimates the fact that it could be possible for a technology-focused event to oppose such values. Inclusivity is *not* an opinion: it is a universal and obvious principle._
 
-## FrenchKit Code of Conduct 2019
+## FrenchKit Code of Conduct
 
 **We shall not need Codes of Conduct.** And this is not just due to the fact that developers, our audience, should have already understood the principles of a good and inclusive behaviour but also because, in France, any kind of harassment or discrimination is actually "forbidden and punished in all situations" (https://www.service-public.fr/particuliers/vosdroits/F19448, https://www.service-public.fr/particuliers/vosdroits/F32247<sup name="a1">[1](#f1)</sup>).
 
@@ -60,4 +60,4 @@ The Conference Code of Conduct for FrenchKit 2019 is licensed under a Creative C
 
 ## Footnotes
 
-<b id="f1">1</b> Verified on 2020-06-27. [↩](#a1)
+<b id="f1">1</b> Verified on 2020-09-03. [↩](#a1)
